@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mochiy+Pop+P+One&size=30&letterSpacing=1rem&duration=1000&pause=1000&color=F76080&background=FFF28B00&multiline=true&width=435&height=100&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81;%E3%82%B8%E3%83%A5%E3%83%94%E3%82%BF%E3%83%BC%E3%81%A7%E3%81%99%EF%BC%81)](https://git.io/typing-svg)
 ## Hi there I code as a hobby and is currently building an encyclopedia👋
+# Checkout my newest projects
+https://tango-dango.vercel.app/
+https://jupiter-card.vercel.app/
