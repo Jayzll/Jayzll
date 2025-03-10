@@ -45,11 +45,13 @@ Here are some ideas to get you started:
 - ✨ React
 - ✨ UI Designs
 
-### - Hobbies : 
-- ✨ Piano
-- ✨ アニメ
-- ✨ Drawing
-- ✨ OSU
+### - Programming Languages : 
+- ✨ Python
+- ✨ HTML, CSS, Javascript
+### - Framework and Libraries: 
+- ✨ React
+- ✨ Tkinter
+- ✨ MatPotLib
 
 </br>
 </br>
