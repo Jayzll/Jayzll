@@ -25,10 +25,11 @@ Here are some ideas to get you started:
 </div>
 
 
-
+<!--
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3R4NXRoeDlrZjhmZGx4anUwamd4aWN1bjJxd205Zmxub2EwYmE5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13ZzYXkeIjcZy0/giphy.gif">
 </div>
+-->
 
 </br>
 </br>
