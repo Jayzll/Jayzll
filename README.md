@@ -61,7 +61,9 @@ Here are some ideas to get you started:
 
 # Checkout my newest projects
 https://jupiterencyclopedia.vercel.app/
+
 https://tango-dango.vercel.app/
+
 https://jupiter-card.vercel.app/
 
 
